@@ -6,7 +6,7 @@ public class SalesDemo {
 		// TODO Auto-generated method stub
 		SalesData data=new SalesData();
 		data.data();
-		
+		display();
 
 	}
 
